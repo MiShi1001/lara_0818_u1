@@ -165,6 +165,7 @@ return [
 
         Recca0120\LaravelTracy\LaravelTracyServiceProvider::class,
         SimpleSoftwareIO\QrCode\QrCodeServiceProvider::class,
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
         /*
          * Package Service Providers...
